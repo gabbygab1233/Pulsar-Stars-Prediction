@@ -1,4 +1,5 @@
 # Pulsar-Stars-Prediction
+![CONSIDER_ILLUSTRATION_WHEN 2018-05-17-15-52-32](https://differentimpulse.com/wp-content/uploads/2018/09/eso1710a-792x509.jpg)
 
 HTRU2 is a data set which describes a sample of pulsar candidates collected during the High Time Resolution Universe Survey .
 
@@ -27,5 +28,9 @@ Each candidate is described by 8 continuous variables, and a single class variab
 7. Excess kurtosis of the DM-SNR curve. 
 8. Skewness of the DM-SNR curve. 
 9. Class 
+
+Link for dataset: 
+* https://archive.ics.uci.edu/ml/datasets/HTRU2
+* https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star
 
 
